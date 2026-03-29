@@ -35,12 +35,12 @@ This repository contains a Verilog implementation of a MIPS based processor whic
 - Encodings for other programs such as Bubble sort or a simple factorial program are also provided in `/extra files`.
 
 
-## **Schematic**  
+<!-- ## **Schematic**  
 
 A diagram showing the entire implementation is shown below.
 
 
-  <img src="./schematic.png">
+  <img src="./schematic.png"> -->
 
 ## **Feedback**  
 
